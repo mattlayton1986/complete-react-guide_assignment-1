@@ -1,0 +1,12 @@
+.UserOutput {
+  border: 1px solid #aaa;
+  width: 46%;
+  float: left;
+  margin: 20px;
+  min-height: 90px;
+  background-color: #0096ff;
+}
+
+.UserOutput p {
+  word-wrap: break-word;
+}
